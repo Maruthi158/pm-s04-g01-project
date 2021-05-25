@@ -19,8 +19,8 @@
 * After successful payment he would be directed to the page to display the address where customer can pick his car.<br>
 
 ### Our Team
-<img src="Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
-<img src="vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
+<img src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
+<img src="images/vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="images/Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
 
   [Nithya Karepe](https://github.com/KarepeN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Priyanka Maruthi](https://github.com/Maruthi158)             &nbsp;&nbsp;&nbsp;&nbsp;   [Shivani Tangellapally](https://github.com/shivani-ta)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Tejaswi Avula](https://github.com/tejaavula)
 
