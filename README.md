@@ -1,7 +1,12 @@
 # Rapid-Car-Rentals
 
 ## Table of contents
-
+* Our Project
+* Our Team
+* Project Charter
+* Scope
+* Schedule
+* Budget
 ### Our Project
    <strong>Project Title:</strong> Rapid-Car-Rentals<br>
    <strong>Project Tagline: </strong>Find Me anywhere<br>
