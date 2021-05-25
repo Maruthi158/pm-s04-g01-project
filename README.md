@@ -5,8 +5,7 @@
 ### Our Project
    <strong>Project Title:</strong> Rapid-Car-Rentals<br>
    <strong>Project Tagline: </strong>Find Me anywhere<br>
-   
-    <strong>Team Name: </strong>Fast and Furious<br>
+   <strong>Team Name: </strong>Fast and Furious<br>
    
     
 **Summary:**<br>
