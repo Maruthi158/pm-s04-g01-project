@@ -12,6 +12,6 @@
 - Nithya Karepe <img src="Nithya.png" alt="drawing" width="150" style="border-radius:50%" />
 - Priyanka Maruthi <img src="Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
 - Shivani Tangellapally     <img src="vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />
-- Tejaswi Avula
+- Tejaswi Avula  <img src="Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
 
 ### Project Charter
