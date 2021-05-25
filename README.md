@@ -5,6 +5,9 @@
 ### Our Project
    <strong>Project Title:</strong> Rapid-Car-Rentals<br>
    <strong>Project Tagline: </strong>Find Me anywhere<br>
+   
+    <strong>Team Name: </strong>Fast and Furious<br>
+   
     
 **Summary:**<br>
 * The project "Rapid-Car-Rentals" is an online website that they would provide the cars on rental.The customer would be able to login by creating the account and will be able to view the Grid view of available cars and their respective price per day for a car on Rent. 
