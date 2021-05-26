@@ -14,9 +14,9 @@
 
 ### Our Team
 * Nithya karepe as project manager
-* Priyanka maruthi as designer
-* shivani tangellapally as developer
-* Tejaswi avula as Scrum master
+* Priyanka Maruthi as designer
+* shivani Tangellapally as developer
+* Tejaswi Avula as Scrum master
 <br>
 
 <img src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
