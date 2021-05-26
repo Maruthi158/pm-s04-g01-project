@@ -25,3 +25,14 @@
   [Nithya Karepe](https://github.com/KarepeN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Priyanka Maruthi](https://github.com/Maruthi158)             &nbsp;&nbsp;&nbsp;&nbsp;   [Shivani Tangellapally](https://github.com/shivani-ta)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Tejaswi Avula](https://github.com/tejaavula)
 
 
+### Project Charter
+[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
+
+### Scope
+[click here for each detail step ](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS.md)
+
+### Schedule
+[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/schedule.md)
+
+### Budget
+[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/BUDGET.md)
