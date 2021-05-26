@@ -48,3 +48,6 @@ e)_Deployment_: After we successfully finish the Testing we would proceed with d
 
 ### Budget
 [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/BUDGET.md)
+
+### References
+   https://projectmanagementskills.info/project-charter/
