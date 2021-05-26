@@ -41,7 +41,7 @@ d)Testing Phase: In this Phase we would perform all kind of Scenarios to be test
 
 e)Deployment: After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.
 
-[Tree Structure for WBS ](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS.md)
+[Tree Structure for WBS ](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.png)
 
 ### Schedule
 [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/schedule.md)
