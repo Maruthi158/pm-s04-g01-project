@@ -18,4 +18,4 @@
 
   [Nithya Karepe](https://github.com/KarepeN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Priyanka Maruthi](https://github.com/Maruthi158)             &nbsp;&nbsp;&nbsp;&nbsp;   [Shivani Tangellapally](https://github.com/shivani-ta)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Tejaswi Avula](https://github.com/tejaavula)
 
-### Project Charter
+
