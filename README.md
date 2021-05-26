@@ -13,6 +13,10 @@
 * After successful payment he would be directed to the page to display the address where customer can pick his car.<br>
 
 ### Our Team
+* Nithya karepe as project manager
+* Priyanka maruthi as designer
+* shivani tangellapally as developer
+* Tejaswi avula as Scrum master
 <img src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
 <img src="images/vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="images/Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
 
