@@ -17,6 +17,8 @@
 * Priyanka maruthi as designer
 * shivani tangellapally as developer
 * Tejaswi avula as Scrum master
+<br>
+
 <img src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
 <img src="images/vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="images/Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
 
