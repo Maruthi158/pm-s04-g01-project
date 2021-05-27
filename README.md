@@ -48,7 +48,11 @@ c)**_Execution Phase_: ** In this Phase we would start EXecuting the Project par
 * **Code merging:** This phase would help in code merging which was developed using two previous parts
 
 
-d)_Testing Phase_: In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.
+d)**_Testing Phase_:** In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.This phase would consists of following subtasks:
+* **Testing Phase 1 :** This phase would deal with the testing of the website.
+* **Testing Phase2 : ** This phase would deal with the testing of the website.
+* **Completing Testing of Website:**  This phase would deal with the completing testing of the website.
+
 
 e)_Deployment_: After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.
 
