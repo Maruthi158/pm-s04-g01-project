@@ -32,9 +32,9 @@
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
 
 a)_Requirement Analysis_: In this Phase we would collect and finalize requirements from the Client to complete the online website with discussed functionalities.This phase consists of three subtasks:<br>
-    * Gathering Requirements:This phase would deal with collection of requirements from the client<br>
-    * Finalize Requiremnents : This phase would deal with Finalize of requriements<br>
-    * Initial Review:This would deal with review of requirements<br>
+* **Gathering Requirements:** This phase would deal with collection of requirements from the client<br>
+* **Finalize Requiremnents :** This phase would deal with Finalize of requriements<br>
+* **Initial Review:** This would deal with review of requirements<br>
 
 b)_Design for Website_: In this Phase The team would come up with initial Design for the website and then complete the Design in a working model and we would have a review design meeting to finalize the Design for website
 
