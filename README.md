@@ -36,13 +36,17 @@ a)**_Requirement Analysis_**: In this Phase we would collect and finalize requir
 * **Finalize Requiremnents :** This phase would deal with Finalize of requriements<br>
 * **Initial Review:** This would deal with review of requirements<br>
 
-b)**_Design for Website_:** In this Phase The team would come up with initial Design for the website and then complete the Design in a working model and we would have a review design meeting to finalize the Design for website<br>
+b)**_Design for Website_:** In this Phase The team would come up with initial Design for the website and then complete the Design in a working model and we would have a review design meeting to finalize the Design for website.This phase would consists of subtasks:<br>
 * **Initial Design Plan:** This would deal with building intial design for the website
 * **Build Complete Design:** This would deal with building complete design for the website
 * **Review Design:** This would deal with review of the Design
 
 
-c)_Execution Phase_: In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website
+c)**_Execution Phase_: ** In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website.This phase would consists of following subtasks.<br>
+* **Development of Code For Part A:** This phase would deal with the Development of Code
+* **Development of Code For Part B:** This phase would deal with the Development of Code
+* **Code merging:** This phase would help in code merging which was developed using two previous parts
+
 
 d)_Testing Phase_: In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.
 
