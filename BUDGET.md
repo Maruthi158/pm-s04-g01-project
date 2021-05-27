@@ -5,7 +5,8 @@
 * Developers about 20 hours each week.
 * Designers about 20 hours each week.
 
-<img src="images/budget.png" alt="drawing" width="680" style="border-radius:630%"/>
+<img src="images/budget1.png" alt="drawing" width="680" style="border-radius:630%"/>
 
+<img src="images/budget2.png" alt="drawing" width="680" style="border-radius:630%"/>
 
 #### this is total salary and budget for 14 weeks
