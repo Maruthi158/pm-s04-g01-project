@@ -1,6 +1,9 @@
-### Project Name :  Rapid-car-rentals.
-<br><br>
- ### Team
+
+# Project charter
+## Project Name :  Rapid-car-rentals.
+
+
+## Team
 |     Team              | role          | 
 | -------------         |:-------------:|
 | nithya karepe         | project mangaer | 
