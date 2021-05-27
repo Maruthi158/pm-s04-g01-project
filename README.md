@@ -44,10 +44,10 @@ e)_Deployment_: After we successfully finish the Testing we would proceed with d
  Tree Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.png)
 
 ### Schedule
-[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/schedule.md)
+[click here](https://github.com/KarepeN/pm-s04-g01-project/tree/main/Schedule)
 
 ### Budget
-[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/BUDGET.md)
+[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Budget/Budget.xlsx)
 
 ### References
    https://projectmanagementskills.info/project-charter/
