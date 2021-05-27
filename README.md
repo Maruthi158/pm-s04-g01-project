@@ -42,7 +42,7 @@ b)**_Design for Website_:** In this Phase The team would come up with initial De
 * **Review Design:** This would deal with review of the Design
 
 
-c)**_Execution Phase_: ** In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website.This phase would consists of following subtasks.<br>
+c)**_Execution Phase_:** In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website.This phase would consists of following subtasks.<br>
 * **Development of Code For Part A:** This phase would deal with the Development of Code
 * **Development of Code For Part B:** This phase would deal with the Development of Code
 * **Code merging:** This phase would help in code merging which was developed using two previous parts
@@ -50,11 +50,14 @@ c)**_Execution Phase_: ** In this Phase we would start EXecuting the Project par
 
 d)**_Testing Phase_:** In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.This phase would consists of following subtasks:
 * **Testing Phase 1 :** This phase would deal with the testing of the website.
-* **Testing Phase2 : ** This phase would deal with the testing of the website.
+* **Testing Phase2 :**  This phase would deal with the testing of the website.
 * **Completing Testing of Website:**  This phase would deal with the completing testing of the website.
 
 
-e)_Deployment_: After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.
+e)**_Deployment_:** After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.This would has the following subtasks.
+* **Deployment of website:** This would deal with the deployment of website.
+* **Deployment Review of website:** This would deal with review of website
+
 
  Tree Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.png)
 
