@@ -68,4 +68,6 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Budget/Budget.xlsx)
 
 ### References
-   https://projectmanagementskills.info/project-charter/
+* **Project Charter:** https://projectmanagementskills.info/project-charter/
+*  **Work Break Down structure:** https://www.projectmanager.com/work-breakdown-structure
+*  **Project Scope:** https://thedigitalprojectmanager.com/project-scope-statement/
